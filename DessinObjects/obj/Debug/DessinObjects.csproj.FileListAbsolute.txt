@@ -1,0 +1,32 @@
+C:\Users\ilker\Desktop\DessinObjects\bin\Debug\DessinObjects.exe.config
+C:\Users\ilker\Desktop\DessinObjects\bin\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\DessinObjects\bin\Debug\DessinObjects.pdb
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.FeuilleDessin.resources
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.Properties.Resources.resources
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.pdb
+C:\Users\ilker\Desktop\DessinObjects\obj\Debug\DessinObjects.ModifierNoeud.resources
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\bin\Debug\DessinObjects.exe.config
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\bin\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\bin\Debug\DessinObjects.pdb
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.FeuilleDessin.resources
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.ModifierNoeud.resources
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.Properties.Resources.resources
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.pdb
+C:\Users\ilker\Desktop\COURS IUT\DessinObjects\obj\Debug\DessinObjects.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\bin\Debug\DessinObjects.exe.config
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\bin\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\bin\Debug\DessinObjects.pdb
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.FeuilleDessin.resources
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.ModifierNoeud.resources
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.Properties.Resources.resources
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.exe
+C:\Users\ilker\Desktop\coursIUT\tdihm\DessinObjects\obj\Debug\DessinObjects.pdb

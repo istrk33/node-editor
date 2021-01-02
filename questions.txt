@@ -1,0 +1,44 @@
+Fichier question
+1. Démarrer sert à compiler et exécuter le projet, pendant que le projet s'exécute  nous pouvons stopper ou mettre en pause.
+2. Les trois autres boutons permettent de passer aux prochains points d'arrêts, de passer le point d'arrêt ou sinon d'entrer dans la méthode.
+3. Dans Dessin.Designer.cs .
+4. sender est la référence de l'évènement , e PaintEventArgs est l'endroit où l'on va paint.
+5. la classe Point est une coordonnées,  Pens pour la couleur des traits, Brushes est utile pour la couleur du remplissage, Font est pour la police (taille, couleur et famille), et FontStyle pour le style de la police. Rectangle pour dessiner la forme.
+6. Mettre à jour l'affichage de la vue.
+7. Dans le if on vérifie si la souris se situe dans l'ellipse rouge, et uniquement si elle se situe dans cette localisation on applique les modifications.
+8. On déclare les variables à côté des autres et on les initialise dans le constructeur.
+9. Notre méthode MouseMove contient une condition avec le booleen enMouvement, dans laquelle on gère le déplacement de l'ellipse, si on la maintien.
+10. Position determine la position du noeud à l'aide d'un Point, Taille determine la taille du noeud  et Dessine est la méthode qui permet de dessiner le Noeud en utilisant position et Taille.Centre est un Point calculé.
+11.On doit le créer dans la classe FeuilleDessin.cs, dans constructeur de la classe en dessous de initilizeComponents();
+12. pour chaque noeud c de la liste noeuds on applique la méthode dessine.
+13. A chaque clic on créer un noeud qu'on ajoute dans la liste, puis qu'on refresh.
+14.On appuie sur la mini fleche sur la toolStripButton et ajouté un boutton.
+15.source est la source du trait(noeud), destination est la destination et dessine , dessine un trait entre ces 2 noeuds.
+16. il est déclaré dans la feuille dessin.
+17.On veut relier 2 noeuds, donc avec des clics sur les noeuds, pas obligé de d'utiliser mouseMove. Contains nous permettra //PAS CERTAINS
+18.le toolTipText permet de voir le textext caché de l'item lors de son survol.
+19. SUr le clique du bouton on creer une boite de dialogue, lorsque l'on clique OK on garde la couleur dans notre variable.
+20.Une propriété qui peut être exploité par toute autres classes.
+21.Un input qui permet d'augmenter la valeur d'un entier.
+22.On veut caster la valeur entiere situé dans le numericUpDown en entier.
+23.On pourrait le placer dans mouseUp pour des histoire d'ergonomie.
+24.Cette fenêtre nous signifie qu'il y a une nullReference exception.
+25.Tester avant d'essayer de manipuler une valeur nulle.
+26.Tout les string qui sont dans le tableau de string dans la boucle foreach sont ajouté dans le ToolStripMenu.
+27.Oui j'en suis quasiment sur.
+28. public string versXML {get {return new string ("<noeud>" + Environment.NewLine
+                + "<position x=\"" + position.X
+                + "\" y=\"" + position.Y + "\"/>" + Environment.NewLine
+                + "<taille w=\"" + taille.Width + "\" h=\""
+                + taille.Height + "\"/>" + Environment.NewLine
+                + "<epaisseur>" + epaisseur + "</epaisseur>"
+                + Environment.NewLine + "    <couleur>"
+                + couleur.ToArgb()
+                + "</couleur>"
+                + Environment.NewLine + "  </noeud>");}}
+29.Lisibilité et capacité de stockage.
+30.Il ne connait pas ce constructeur, ajouter un contructeur vide.
+31.Utiliser des id ou les positions des noeuds.
+32. La journalisation est le fait de garder une trace de chaques actions réalisé.
+33. Une pile est une sorte de liste qui empile chaque item au début. La valeur 50 signifie sa taille.
+34.Oui probablement.
